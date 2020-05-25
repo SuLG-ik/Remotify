@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441979653928",
+    "firebase_url": "https://remot-ify.firebaseio.com",
+    "project_id": "remot-ify",
+    "storage_bucket": "remot-ify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441979653928:android:c6eac187541c7eb4bcca1d",
+        "android_client_info": {
+          "package_name": "ru.sulgik.remotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441979653928-qeinfc2ruuujl6a6m6kbmv0cvv1u13k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe-BIv0OK2_C3PxB7HP7towy_2Znr7yxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441979653928-qeinfc2ruuujl6a6m6kbmv0cvv1u13k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
